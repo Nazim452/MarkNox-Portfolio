@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/MarkNox-Portfolio/static/css/main.b41a2d7b.css",
+    "main.js": "/MarkNox-Portfolio/static/js/main.63c3f30a.js",
+    "static/media/projectFour.jpg": "/MarkNox-Portfolio/static/media/projectFour.bb6faf2ebe3e9c756543.jpg",
+    "static/media/bannerImg.png": "/MarkNox-Portfolio/static/media/bannerImg.20ea4cb0be7d3652be02.png",
+    "static/media/projectTwo.jpg": "/MarkNox-Portfolio/static/media/projectTwo.02621b586e4049d13f09.jpg",
+    "static/media/ProjectFour.png": "/MarkNox-Portfolio/static/media/ProjectFour.439cdd2e32dd448cccf0.png",
+    "static/media/Nazim.pdf": "/MarkNox-Portfolio/static/media/Nazim.c7864e8bbc458580b29d.pdf",
+    "static/media/projectThree.jpeg": "/MarkNox-Portfolio/static/media/projectThree.acb320a89a1d3c1ddce4.jpeg",
+    "static/media/contactImg.png": "/MarkNox-Portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/c.jpg": "/MarkNox-Portfolio/static/media/c.6b18a7f86a7436ea0f86.jpg",
+    "static/media/testimonialTwo.png": "/MarkNox-Portfolio/static/media/testimonialTwo.5a7ff357b0c74e367f0e.png",
+    "static/media/testthree.jpg": "/MarkNox-Portfolio/static/media/testthree.0d89a3ae01c15e64aeba.jpg",
+    "static/media/testimonialOne.png": "/MarkNox-Portfolio/static/media/testimonialOne.8a084ebd96fbdd288667.png",
+    "static/media/projectOne.jpg": "/MarkNox-Portfolio/static/media/projectOne.46784208610168b904d8.jpg",
+    "static/media/cn.png": "/MarkNox-Portfolio/static/media/cn.3377ba6c3ef254979cc1.png",
+    "static/media/system.jpg": "/MarkNox-Portfolio/static/media/system.9774248aaf30f4959de3.jpg",
+    "static/media/github.webp": "/MarkNox-Portfolio/static/media/github.41d36e66d42cfe58a0ac.webp",
+    "static/media/node-js.webp": "/MarkNox-Portfolio/static/media/node-js.9357f4cefd5c2f78d1fb.webp",
+    "static/media/java.webp": "/MarkNox-Portfolio/static/media/java.8e58b7f67056641fb5e4.webp",
+    "static/media/react.webp": "/MarkNox-Portfolio/static/media/react.25335a7fb8fcf497bebd.webp",
+    "static/media/materialui.webp": "/MarkNox-Portfolio/static/media/materialui.998ef98caba22f12e5bd.webp",
+    "static/media/tailwindcss.webp": "/MarkNox-Portfolio/static/media/tailwindcss.86b80237d4e81673e195.webp",
+    "static/media/chakraui.webp": "/MarkNox-Portfolio/static/media/chakraui.60106e5c921682753250.webp",
+    "static/media/css.webp": "/MarkNox-Portfolio/static/media/css.b429f6637278bf58e420.webp",
+    "static/media/git.webp": "/MarkNox-Portfolio/static/media/git.5a586be12a85848be8ee.webp",
+    "static/media/html.webp": "/MarkNox-Portfolio/static/media/html.00735c25bb3982755071.webp",
+    "static/media/bootstrap.webp": "/MarkNox-Portfolio/static/media/bootstrap.2b16d610286882a7fcbd.webp",
+    "static/media/js.webp": "/MarkNox-Portfolio/static/media/js.a4f9bb8fd375f2a40314.webp",
+    "static/media/mongoDb.webp": "/MarkNox-Portfolio/static/media/mongoDb.26432ddd468716b86d4f.webp",
+    "static/media/expressjs.webp": "/MarkNox-Portfolio/static/media/expressjs.4b5abf666ac02e1082ee.webp",
+    "index.html": "/MarkNox-Portfolio/index.html",
+    "main.b41a2d7b.css.map": "/MarkNox-Portfolio/static/css/main.b41a2d7b.css.map",
+    "main.63c3f30a.js.map": "/MarkNox-Portfolio/static/js/main.63c3f30a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b41a2d7b.css",
+    "static/js/main.63c3f30a.js"
+  ]
+}
